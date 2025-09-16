@@ -127,7 +127,7 @@ function App() {
     playsInline
     className="w-full h-full object-cover"
   >
-    <source src="/public/video22.mp4" type="video/mp4" />
+    <source src="https://streamable.com/ehw2q2" type="video/mp4" />
     Votre navigateur ne supporte pas la vidéo HTML5.
   </video>
 </div>
